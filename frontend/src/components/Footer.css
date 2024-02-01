@@ -1,0 +1,23 @@
+.Footer {
+    width: 100%;
+    height: 150px;
+    background-color: #121723;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    border-bottom: 1px solid #E6E8EC66;
+  }
+.Footer a {
+    text-decoration: none;
+    color: #FFFFFF;
+    font-family: "Arial";
+    font-weight: 700;
+    font-size: 20px;
+  }
+  li {
+    display: inline;
+    margin-right: 24px;
+  }

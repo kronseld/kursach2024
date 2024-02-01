@@ -1,0 +1,10 @@
+.Basket {
+    width: 100%;
+    height: calc(100vh - 150px -150px);
+    background-color: #F1F1F1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 100px;
+}

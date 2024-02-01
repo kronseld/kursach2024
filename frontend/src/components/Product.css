@@ -1,0 +1,25 @@
+.Product {
+    width: 250px;
+    box-shadow: 5px 5px 5px 3px #504e4e;
+    background-color: white;
+    padding: 20px;
+    border-radius: 15px;
+}
+.Product img {
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.Product button {
+    border: none;
+    background-color: #F1F1F1;
+    width: 100px;
+    height: 50px;
+    border-radius: 15px;
+}
+.Product button:hover {
+
+    cursor: pointer;
+    background-color: #a1a1a1;
+
+}
